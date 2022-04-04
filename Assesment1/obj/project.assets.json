@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veronica.busiello\\source\\repos\\Assesment1\\Assesment1\\Assesment1.csproj",
+      "projectUniqueName": "C:\\repos\\Assesment1\\Assesment1\\Assesment1.csproj",
       "projectName": "Assesment1",
-      "projectPath": "C:\\Users\\veronica.busiello\\source\\repos\\Assesment1\\Assesment1\\Assesment1.csproj",
+      "projectPath": "C:\\repos\\Assesment1\\Assesment1\\Assesment1.csproj",
       "packagesPath": "C:\\Users\\veronica.busiello\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veronica.busiello\\source\\repos\\Assesment1\\Assesment1\\obj\\",
+      "outputPath": "C:\\repos\\Assesment1\\Assesment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\veronica.busiello\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -28,18 +28,18 @@ namespace Assesment1
                 int length = Convert.ToInt32(Console.ReadLine());
 
                 //cannot figure out how to read an array
-                int[] map = new int[width, length];
+                //int[] map = new int[width, length];
                 Console.Write("Input elements in the map :\n");
                 for (int i = 0; i < width; i++)
                 {
                     for (int j = 0; j < length; j++)
                     {
                         Console.Write("element - [{0},{1}] : ", i, j);
-                        map[i, j] = Convert.ToInt32(Console.ReadLine());
+                        //map[i, j] = Convert.ToInt32(Console.ReadLine());
                     }
                 }
 
-                Console.WriteLine(string.Format("The map has {0} countries", Solution(map)));
+                //Console.WriteLine(string.Format("The map has {0} countries", Solution(map)));
             }
             catch (Exception e)
             {
